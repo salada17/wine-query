@@ -34,7 +34,6 @@ A new Flutter project.
 
 ### 프로젝트 시작  
   - 소스코드 복사(clone)  
-    `git clone https://repo.macaron.mobi/kstm/mobile/winequery.git`  
     
   - 초기 셋업  
     ```
