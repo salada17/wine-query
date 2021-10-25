@@ -120,13 +120,10 @@ A new Flutter project.
     - API 문서  
       https://winequery.herokuapp.com/docs  
     - 계정
-      kstmdev@gmail.com  
   
   ### MongoDB 클라우드  
     - 계정
-      jckoh.kstm@gmail.com  
     - DB Connection  
-      kstmdev/${PASSWORD}  
       
 
 ---  
